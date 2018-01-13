@@ -1,0 +1,3 @@
+project=club
+test=minitest
+template=erb
